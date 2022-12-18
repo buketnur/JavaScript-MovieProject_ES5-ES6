@@ -27,8 +27,8 @@ class UI {
       </tr>
     
     `
-        // console.log(filmList);
     
+    //console.log(filmList);
     }
     
     static clearInputs (element1,element2,element3){
